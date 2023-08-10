@@ -13,4 +13,4 @@ A shortcut is created on the desktop.
 
 You can load documents as a list from the files IN.xlsx, OUT.xlsx, INTERNAL.xlsx, respectively, for incoming, outgoing and internal, data must be filled in columns by copy-pasting according to the meaning, without changing the order of the columns and column titles, then save, close , and attach in the "Service-Loading from xlsx files" section
 
-[el-vo.eu](https://www.el-vo.eu/)https://www.el-vo.eu/
+https://www.el-vo.eu/
