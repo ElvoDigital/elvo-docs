@@ -1,7 +1,7 @@
 # elvo-docs
 ELVO DOCS FREE
 
-Works on Windows 8.2, 10, 11 
+Free version works on Windows 8.2, 10, 11 
 
 Make regular backups of your database.
 
