@@ -1,5 +1,5 @@
 # elvo-docs
-ELVO DOCS FREE
+ELVO DOCS Light (Free Edition)
 
 Free version works on Windows 8.2, 10, 11 
 
