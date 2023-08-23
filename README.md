@@ -1,7 +1,7 @@
 # elvo-docs
 ELVO DOCS Light (Free Edition)
 
-Free version works on Windows 8.2, 10, 11 
+Free single user version works on Windows 8.2, 10, 11 
 
 Make regular backups of your database.
 
